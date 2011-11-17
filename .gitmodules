@@ -1,0 +1,3 @@
+[submodule "sbhs-server"]
+	path = sbhs-server
+	url = https://github.com/prashants/sbhs-server.git
